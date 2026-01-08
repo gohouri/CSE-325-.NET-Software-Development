@@ -1,0 +1,15 @@
+C:\Users\ange.gohouri\CSE-325-.NET-Software-Development\W01 Assignment\FilesAndDirectories\bin\Debug\net8.0\FilesAndDirectories.exe
+C:\Users\ange.gohouri\CSE-325-.NET-Software-Development\W01 Assignment\FilesAndDirectories\bin\Debug\net8.0\FilesAndDirectories.deps.json
+C:\Users\ange.gohouri\CSE-325-.NET-Software-Development\W01 Assignment\FilesAndDirectories\bin\Debug\net8.0\FilesAndDirectories.runtimeconfig.json
+C:\Users\ange.gohouri\CSE-325-.NET-Software-Development\W01 Assignment\FilesAndDirectories\bin\Debug\net8.0\FilesAndDirectories.dll
+C:\Users\ange.gohouri\CSE-325-.NET-Software-Development\W01 Assignment\FilesAndDirectories\bin\Debug\net8.0\FilesAndDirectories.pdb
+C:\Users\ange.gohouri\CSE-325-.NET-Software-Development\W01 Assignment\FilesAndDirectories\obj\Debug\net8.0\FilesAndDirectories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ange.gohouri\CSE-325-.NET-Software-Development\W01 Assignment\FilesAndDirectories\obj\Debug\net8.0\FilesAndDirectories.AssemblyInfoInputs.cache
+C:\Users\ange.gohouri\CSE-325-.NET-Software-Development\W01 Assignment\FilesAndDirectories\obj\Debug\net8.0\FilesAndDirectories.AssemblyInfo.cs
+C:\Users\ange.gohouri\CSE-325-.NET-Software-Development\W01 Assignment\FilesAndDirectories\obj\Debug\net8.0\FilesAndDirectories.csproj.CoreCompileInputs.cache
+C:\Users\ange.gohouri\CSE-325-.NET-Software-Development\W01 Assignment\FilesAndDirectories\obj\Debug\net8.0\FilesAndDirectories.sourcelink.json
+C:\Users\ange.gohouri\CSE-325-.NET-Software-Development\W01 Assignment\FilesAndDirectories\obj\Debug\net8.0\FilesAndDirectories.dll
+C:\Users\ange.gohouri\CSE-325-.NET-Software-Development\W01 Assignment\FilesAndDirectories\obj\Debug\net8.0\refint\FilesAndDirectories.dll
+C:\Users\ange.gohouri\CSE-325-.NET-Software-Development\W01 Assignment\FilesAndDirectories\obj\Debug\net8.0\FilesAndDirectories.pdb
+C:\Users\ange.gohouri\CSE-325-.NET-Software-Development\W01 Assignment\FilesAndDirectories\obj\Debug\net8.0\FilesAndDirectories.genruntimeconfig.cache
+C:\Users\ange.gohouri\CSE-325-.NET-Software-Development\W01 Assignment\FilesAndDirectories\obj\Debug\net8.0\ref\FilesAndDirectories.dll
